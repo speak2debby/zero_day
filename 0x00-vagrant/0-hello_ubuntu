@@ -1,1 +1,2 @@
- it prints just the kernel name, get name and information about current kernel
+$ uname
+Linux
